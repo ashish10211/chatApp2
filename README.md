@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Go to server folder and do nodemon app.js    
-npm start at root   
+npm install and then npm start at root   
 Socket.io was used for making chat realtime
 
 ## Available Scripts
