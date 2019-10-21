@@ -4,6 +4,8 @@ Go to server folder and do nodemon app.js
 npm install and then npm start at root   
 Socket.io was used for making chat realtime
 
+  ----- Open chatboxes on multiple browser tabs and all users can send messages in real time -------
+
 ## Available Scripts
 
 In the project directory, you can run:
